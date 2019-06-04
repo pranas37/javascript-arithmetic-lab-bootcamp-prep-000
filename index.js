@@ -29,8 +29,8 @@ function makeInt(a){
 
 
 }
-function parseInt('0x2328', 10){
-  return '0x2328'
+function parseInt('nonsense!', 10){
+  return 
 }
 
 
