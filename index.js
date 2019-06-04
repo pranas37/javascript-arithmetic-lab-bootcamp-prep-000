@@ -29,7 +29,7 @@ function makeInt(a){
 
 
 }
-function makeInt(n){
+function makeInt(){
    return parseInt('assumes base 10',10)
 }
 
