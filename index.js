@@ -29,7 +29,7 @@ function makeInt(a){
 
 
 }
-function parseInt('0x2328'){
+function parseInt('0x2328''0x2328'){
   return 0
 }
 
