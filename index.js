@@ -29,8 +29,8 @@ function makeInt(a){
 
 
 }
-function makeInt(){
-   return parseInt(,10)
+function makeInt(n){
+   return parseInt('assumes base 10',10)
 }
 
 
