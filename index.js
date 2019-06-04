@@ -30,7 +30,7 @@ function makeInt(a){
 
 }
 function makeInt(){
-   return parseInt('assumes base 10',10)
+   return parseInt('0',10)
 }
 
 
