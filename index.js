@@ -30,7 +30,7 @@ function makeInt(a){
 
 }
 function parseInt('0x2328'){
-  return 
+  return 0
 }
 
 
