@@ -29,8 +29,8 @@ function makeInt(a){
 
 
 }
-function makeInt(Number){
-   return parseInt(n,10)
+function makeInt(){
+   return parseInt(,10)
 }
 
 
