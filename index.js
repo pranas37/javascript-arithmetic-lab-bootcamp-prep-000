@@ -30,9 +30,6 @@ function makeInt(a){
 
 }
 
-function makeInt(){
-  return 0
-}
 
 
 
