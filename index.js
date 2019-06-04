@@ -29,7 +29,7 @@ function makeInt(a){
 
 
 }
-function parseInt('nonsense!', 10){
+function parseInt(){
   return 
 }
 
