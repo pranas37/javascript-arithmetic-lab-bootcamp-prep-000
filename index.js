@@ -29,7 +29,7 @@ function makeInt(a){
 
 
 }
-function makeInt(){
+function makeInt(Number){
    return parseInt(n,10)
 }
 
